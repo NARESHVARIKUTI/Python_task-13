@@ -6,11 +6,11 @@ from textblob import TextBlob
 # -------------------------------
       #Twitter API Authentication
 # -------------------------------
-api_key = "QEoWHsTYSkEXuePfdz7S3O9rA"
-api_secret = "C75g73Scq8EiVQPvCO0FU9TYoTW1x5HGd7jx0gnx2xQVbmp7BT"
-access_token = "1721432396-PAikGIttCr5aRQ7C434qJukssHbRafXfDkhDBPT"
-access_secret = "6OOE5K1aF45Lose7rBUV8PWl19u1SI3efaHZlTSYsOZhU"
-Bearer_Token_api = "AAAAAAAAAAAAAAAAAAAAAA5o5gEAAAAAwU6iIFZFs742ibqk9kEgqtIw8tw%3DltIn4O93HZae52pu2169pwj2btoE9dvdyYKaMjgH46HeuuRl1B"
+api_key = "******************"
+api_secret = "**********************************"
+access_token = "********************************************"
+access_secret = "*************************"
+Bearer_Token_api = "*************************************************************************************************"
 
 client = tweepy.Client(
     bearer_token=Bearer_Token_api,
